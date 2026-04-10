@@ -1,4 +1,4 @@
-# Wheat-Disease-Detection
+
 # 🌾 Wheat Disease Detection using GAN-Augmented Hybrid CNN–ViT–BiLSTM
 
 ## 📌 Overview
